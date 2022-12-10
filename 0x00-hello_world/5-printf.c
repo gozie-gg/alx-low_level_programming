@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - Entry
- * return : 0 if successful
+ * main - prints the phrase with proper grammar,
+ *but the outcome is art,
+ *Return : 0 if successful
  */
 int main(void)
 {
